@@ -1,0 +1,11 @@
+2022-02-03 17:06:56.671 +05:30 [WRN] Starting get my service..
+2022-02-03 17:08:17.185 +05:30 [WRN] Starting get my service..
+2022-02-03 17:09:13.889 +05:30 [WRN] Starting get my service..
+2022-02-03 17:09:13.889 +05:30 [WRN] Get Method Called
+2022-02-03 17:22:12.446 +05:30 [WRN] Get Method Called
+2022-02-03 17:22:31.360 +05:30 [WRN] Update Record Successfully
+2022-02-03 17:22:38.097 +05:30 [WRN] Get Method Called
+2022-02-03 17:22:59.901 +05:30 [WRN] Added a Record Successfully {"Id":79,"Name":"donet","Age":55,"City":"sss","$type":"Department"}
+2022-02-03 17:25:23.446 +05:30 [WRN] Get Method Called
+2022-02-03 17:26:15.660 +05:30 [WRN] Delete a Record Successfully79
+2022-02-03 17:26:32.296 +05:30 [WRN] Update Record Successfully{"Id":7,"Name":"newdotnet","Age":99,"City":"wdh","$type":"Department"}

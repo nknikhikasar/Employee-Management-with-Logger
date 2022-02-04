@@ -1,0 +1,237 @@
+2022-02-03 12:21:47.475 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 12:21:47.702 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 12:21:47.702 +05:30 [INF] Hosting environment: Development
+2022-02-03 12:21:47.702 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 12:21:47.727 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 12:21:47.748 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:21:47.765 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 12:21:47.769 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 12:21:47.897 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 127.5693ms
+2022-02-03 12:21:47.900 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:21:47.901 +05:30 [INF] Request finished in 176.8717ms 200 application/json; charset=utf-8
+2022-02-03 12:21:47.935 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 12:21:47.937 +05:30 [INF] Request finished in 2.6773ms 404 
+2022-02-03 12:21:54.206 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 12:21:54.208 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:21:54.211 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 12:21:54.356 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 12:21:54.364 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 153.4566ms
+2022-02-03 12:21:54.365 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:21:54.365 +05:30 [INF] Request finished in 159.0333ms 200 application/json; charset=utf-8
+2022-02-03 12:24:51.310 +05:30 [INF] Starting service..
+2022-02-03 12:24:52.027 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 12:24:52.269 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 12:24:52.269 +05:30 [INF] Hosting environment: Development
+2022-02-03 12:24:52.269 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 12:24:52.289 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 12:24:52.309 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:24:52.328 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 12:24:52.332 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 12:24:52.443 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 111.0637ms
+2022-02-03 12:24:52.447 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:24:52.449 +05:30 [INF] Request finished in 162.0407ms 200 application/json; charset=utf-8
+2022-02-03 12:24:52.469 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 12:24:52.471 +05:30 [INF] Request finished in 1.6337ms 404 
+2022-02-03 12:24:58.369 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 12:24:58.371 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:24:58.374 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 12:24:58.514 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 12:24:58.521 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 147.652ms
+2022-02-03 12:24:58.521 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:24:58.522 +05:30 [INF] Request finished in 152.8921ms 200 application/json; charset=utf-8
+2022-02-03 12:25:54.280 +05:30 [INF] Starting service..
+2022-02-03 12:25:54.956 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 12:25:55.152 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 12:25:55.152 +05:30 [INF] Hosting environment: Development
+2022-02-03 12:25:55.152 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 12:25:55.174 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 12:25:55.197 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:25:55.217 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 12:25:55.221 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 12:25:55.331 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 110.1248ms
+2022-02-03 12:25:55.332 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:25:55.333 +05:30 [INF] Request finished in 161.5479ms 200 application/json; charset=utf-8
+2022-02-03 12:25:55.353 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 12:25:55.356 +05:30 [INF] Request finished in 2.9431ms 404 
+2022-02-03 12:26:02.810 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 12:26:02.812 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:26:02.814 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 12:26:02.830 +05:30 [INF] Starting get service..
+2022-02-03 12:26:02.954 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 12:26:02.962 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 147.4467ms
+2022-02-03 12:26:02.962 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:26:02.962 +05:30 [INF] Request finished in 152.2702ms 200 application/json; charset=utf-8
+2022-02-03 12:27:59.930 +05:30 [INF] Starting service..
+2022-02-03 12:28:00.643 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 12:28:00.830 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 12:28:00.830 +05:30 [INF] Hosting environment: Development
+2022-02-03 12:28:00.830 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 12:28:00.867 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 12:28:00.891 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:28:00.906 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 12:28:00.911 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 12:28:01.032 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 122.1687ms
+2022-02-03 12:28:01.033 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 12:28:01.034 +05:30 [INF] Request finished in 170.4082ms 200 application/json; charset=utf-8
+2022-02-03 12:28:01.056 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 12:28:01.058 +05:30 [INF] Request finished in 1.6938ms 404 
+2022-02-03 12:28:07.103 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 12:28:07.105 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:28:07.108 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 12:28:07.124 +05:30 [WRN] Starting get my service..
+2022-02-03 12:28:07.252 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 12:28:07.260 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 151.1592ms
+2022-02-03 12:28:07.260 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 12:28:07.260 +05:30 [INF] Request finished in 156.7436ms 200 application/json; charset=utf-8
+2022-02-03 17:06:42.968 +05:30 [INF] Starting service..
+2022-02-03 17:06:43.799 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 17:06:43.981 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 17:06:43.981 +05:30 [INF] Hosting environment: Development
+2022-02-03 17:06:43.981 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 17:06:44.002 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 17:06:44.025 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:06:44.044 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 17:06:44.054 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 17:06:44.194 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 145.9225ms
+2022-02-03 17:06:44.196 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:06:44.196 +05:30 [INF] Request finished in 196.834ms 200 application/json; charset=utf-8
+2022-02-03 17:06:44.216 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 17:06:44.218 +05:30 [INF] Request finished in 1.7881ms 404 
+2022-02-03 17:06:56.652 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 17:06:56.653 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:06:56.657 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:06:56.671 +05:30 [WRN] Starting get my service..
+2022-02-03 17:06:56.797 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 17:06:56.804 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 147.6126ms
+2022-02-03 17:06:56.805 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:06:56.805 +05:30 [INF] Request finished in 152.923ms 200 application/json; charset=utf-8
+2022-02-03 17:08:10.967 +05:30 [INF] Starting service..
+2022-02-03 17:08:11.737 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 17:08:11.967 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 17:08:11.967 +05:30 [INF] Hosting environment: Development
+2022-02-03 17:08:11.967 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 17:08:11.992 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 17:08:12.016 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:08:12.035 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 17:08:12.040 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 17:08:12.160 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 120.9757ms
+2022-02-03 17:08:12.162 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:08:12.163 +05:30 [INF] Request finished in 174.1994ms 200 application/json; charset=utf-8
+2022-02-03 17:08:12.185 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 17:08:12.187 +05:30 [INF] Request finished in 1.845ms 404 
+2022-02-03 17:08:17.166 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 17:08:17.167 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:08:17.170 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:08:17.185 +05:30 [WRN] Starting get my service..
+2022-02-03 17:08:17.185 +05:30 [INF] Get Method Called
+2022-02-03 17:08:17.313 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 17:08:17.320 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 149.8396ms
+2022-02-03 17:08:17.320 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:08:17.321 +05:30 [INF] Request finished in 155.2225ms 200 application/json; charset=utf-8
+2022-02-03 17:09:07.851 +05:30 [INF] Starting service..
+2022-02-03 17:09:08.635 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 17:09:08.835 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 17:09:08.835 +05:30 [INF] Hosting environment: Development
+2022-02-03 17:09:08.835 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 17:09:08.860 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 17:09:08.884 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:09:08.898 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 17:09:08.902 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 17:09:09.025 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 123.5126ms
+2022-02-03 17:09:09.027 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:09:09.028 +05:30 [INF] Request finished in 170.0318ms 200 application/json; charset=utf-8
+2022-02-03 17:09:09.056 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 17:09:09.058 +05:30 [INF] Request finished in 1.7506ms 404 
+2022-02-03 17:09:13.869 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 17:09:13.870 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:09:13.872 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:09:13.889 +05:30 [WRN] Starting get my service..
+2022-02-03 17:09:13.889 +05:30 [WRN] Get Method Called
+2022-02-03 17:09:14.016 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 17:09:14.024 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 151.1152ms
+2022-02-03 17:09:14.024 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:09:14.024 +05:30 [INF] Request finished in 155.32ms 200 application/json; charset=utf-8
+2022-02-03 17:21:59.976 +05:30 [INF] Starting service..
+2022-02-03 17:22:00.656 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 17:22:00.853 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 17:22:00.853 +05:30 [INF] Hosting environment: Development
+2022-02-03 17:22:00.853 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 17:22:00.876 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 17:22:00.899 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:22:00.915 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 17:22:00.920 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 17:22:01.036 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 117.4943ms
+2022-02-03 17:22:01.037 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:22:01.038 +05:30 [INF] Request finished in 164.6278ms 200 application/json; charset=utf-8
+2022-02-03 17:22:01.068 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 17:22:01.070 +05:30 [INF] Request finished in 2.0142ms 404 
+2022-02-03 17:22:12.300 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 17:22:12.302 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:22:12.303 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:22:12.446 +05:30 [WRN] Get Method Called
+2022-02-03 17:22:12.449 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 17:22:12.456 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 152.3104ms
+2022-02-03 17:22:12.456 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:22:12.456 +05:30 [INF] Request finished in 155.9136ms 200 application/json; charset=utf-8
+2022-02-03 17:22:31.296 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:48197/api/Department application/json 99
+2022-02-03 17:22:31.296 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Put (employeecsharpapi)'
+2022-02-03 17:22:31.303 +05:30 [INF] Route matched with {action = "Put", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Put(employeecsharpapi.Model.Department) on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:22:31.360 +05:30 [WRN] Update Record Successfully
+2022-02-03 17:22:31.360 +05:30 [INF] Executing JsonResult, writing value of type 'System.String'.
+2022-02-03 17:22:31.361 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Put (employeecsharpapi) in 57.4558ms
+2022-02-03 17:22:31.361 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Put (employeecsharpapi)'
+2022-02-03 17:22:31.361 +05:30 [INF] Request finished in 65.5853ms 200 application/json; charset=utf-8
+2022-02-03 17:22:38.095 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 17:22:38.096 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:22:38.096 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:22:38.097 +05:30 [WRN] Get Method Called
+2022-02-03 17:22:38.098 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 17:22:38.099 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 2.2803ms
+2022-02-03 17:22:38.099 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:22:38.099 +05:30 [INF] Request finished in 4.1533ms 200 application/json; charset=utf-8
+2022-02-03 17:22:59.890 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:48197/api/Department application/json 97
+2022-02-03 17:22:59.892 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Post (employeecsharpapi)'
+2022-02-03 17:22:59.893 +05:30 [INF] Route matched with {action = "Post", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Post(employeecsharpapi.Model.Department) on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:22:59.901 +05:30 [WRN] Added a Record Successfully {"Id":79,"Name":"donet","Age":55,"City":"sss","$type":"Department"}
+2022-02-03 17:22:59.903 +05:30 [INF] Executing JsonResult, writing value of type 'System.String'.
+2022-02-03 17:22:59.904 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Post (employeecsharpapi) in 10.543ms
+2022-02-03 17:22:59.905 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Post (employeecsharpapi)'
+2022-02-03 17:22:59.905 +05:30 [INF] Request finished in 15.7004ms 200 application/json; charset=utf-8
+2022-02-03 17:25:05.202 +05:30 [INF] Starting service..
+2022-02-03 17:25:05.838 +05:30 [INF] User profile is available. Using 'C:\Users\nikhilka\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-02-03 17:25:06.036 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-02-03 17:25:06.037 +05:30 [INF] Hosting environment: Development
+2022-02-03 17:25:06.037 +05:30 [INF] Content root path: C:\Users\nikhilka\source\repos\employeecsharpapi\employeecsharpapi
+2022-02-03 17:25:06.059 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/weatherforecast  
+2022-02-03 17:25:06.085 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:25:06.107 +05:30 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[employeecsharpapi.WeatherForecast] Get() on controller employeecsharpapi.Controllers.WeatherForecastController (employeecsharpapi).
+2022-02-03 17:25:06.112 +05:30 [INF] Executing ObjectResult, writing value of type 'employeecsharpapi.WeatherForecast[]'.
+2022-02-03 17:25:06.218 +05:30 [INF] Executed action employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi) in 108.1405ms
+2022-02-03 17:25:06.220 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.WeatherForecastController.Get (employeecsharpapi)'
+2022-02-03 17:25:06.221 +05:30 [INF] Request finished in 164.3344ms 200 application/json; charset=utf-8
+2022-02-03 17:25:06.240 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/favicon.ico  
+2022-02-03 17:25:06.241 +05:30 [INF] Request finished in 1.5626ms 404 
+2022-02-03 17:25:23.306 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:48197/api/Department  
+2022-02-03 17:25:23.307 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:25:23.309 +05:30 [INF] Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Get() on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:25:23.446 +05:30 [WRN] Get Method Called
+2022-02-03 17:25:23.450 +05:30 [INF] Executing JsonResult, writing value of type 'System.Data.DataTable'.
+2022-02-03 17:25:23.458 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi) in 149.2669ms
+2022-02-03 17:25:23.458 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Get (employeecsharpapi)'
+2022-02-03 17:25:23.458 +05:30 [INF] Request finished in 152.8119ms 200 application/json; charset=utf-8
+2022-02-03 17:26:15.627 +05:30 [INF] Request starting HTTP/1.1 DELETE http://localhost:48197/api/Department/79  
+2022-02-03 17:26:15.627 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Delete (employeecsharpapi)'
+2022-02-03 17:26:15.634 +05:30 [INF] Route matched with {action = "Delete", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Delete(Int32) on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:26:15.660 +05:30 [WRN] Delete a Record Successfully79
+2022-02-03 17:26:15.660 +05:30 [INF] Executing JsonResult, writing value of type 'System.String'.
+2022-02-03 17:26:15.664 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Delete (employeecsharpapi) in 29.4352ms
+2022-02-03 17:26:15.664 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Delete (employeecsharpapi)'
+2022-02-03 17:26:15.664 +05:30 [INF] Request finished in 39.451ms 200 application/json; charset=utf-8
+2022-02-03 17:26:32.255 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:48197/api/Department application/json 99
+2022-02-03 17:26:32.255 +05:30 [INF] Executing endpoint 'employeecsharpapi.Controllers.DepartmentController.Put (employeecsharpapi)'
+2022-02-03 17:26:32.257 +05:30 [INF] Route matched with {action = "Put", controller = "Department"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.JsonResult Put(employeecsharpapi.Model.Department) on controller employeecsharpapi.Controllers.DepartmentController (employeecsharpapi).
+2022-02-03 17:26:32.296 +05:30 [WRN] Update Record Successfully{"Id":7,"Name":"newdotnet","Age":99,"City":"wdh","$type":"Department"}
+2022-02-03 17:26:32.298 +05:30 [INF] Executing JsonResult, writing value of type 'System.String'.
+2022-02-03 17:26:32.299 +05:30 [INF] Executed action employeecsharpapi.Controllers.DepartmentController.Put (employeecsharpapi) in 42.0219ms
+2022-02-03 17:26:32.300 +05:30 [INF] Executed endpoint 'employeecsharpapi.Controllers.DepartmentController.Put (employeecsharpapi)'
+2022-02-03 17:26:32.300 +05:30 [INF] Request finished in 45.2642ms 200 application/json; charset=utf-8
